@@ -1,0 +1,16 @@
+ID;Numero Paciente;Nome;CPF;RG;Sexo;CEP;Endereco;Bairro;Cidade;UF;Celular;Telefone;E-mail;Data de Nascimento;Numero do Prontuario;Responsavel;CPF Responsavel;Data de Nascimento Responsavel;Titular do Plano;CPF do Titular do Plano;Carteirinha do Plano;Nome do plano;Observacao
+33275135;276;MARIA eduarda  lopes;73689415209;;F;06162-150;Rua Teste 1;123;Bairro 1;;SP;5584932546048;;teste@.com;20-10-1957;;;;;;;;Particular
+30868557;266;Rebeca Aragão;28597306483;;;6162151;Rua Teste 2;Bairro 2;;SP;5584917386244;;user@servico..com;1968-15-10;;;;;;;;Particular;
+37740942;255;Dante Rios;32548690792;;;06162-152;Rua Teste 3, 1000;Bairro 3;;SP;5561976806410;;dante.rios@servico.com;1944/12/06;;;;;;;;Particular;
+39442913;204;Antony da Cruz;6039587423;;M;06162-153;Rua Teste 4;Bairro 4;;SP;5584962192967;;antonio@servico.com.br;1993-10-08;;;;;;;;Particular;
+37094906;268;Dra. Maria Alice Sá;2946781585;;;06162-154;Rua Teste 5;Bairro 5;;SP;55 (11) 97094-7932;;maria.sa@servico.com;08/03/1983;;;;;;;;Particular;
+41573289;300;João Silva;11111111111;;M;0616-215;Rua Inválida 6;;Cidade Falsa;XX;55 11 91234-5678;;joao@domínio.com;31/02/2000;;;;;;;;Plano Ouro;
+40000000;301;Fulano  ;0;;;0;;;;;55(0)1234-56789;;fulano@servico.com.br;01/01/1900;;;;;;;;;
+42222222;302;;ABC12345678;;;12345-67;Rua X;456;;;YY;55555555555;;sem@nome.com;2023-13-32;;;;;;;;
+43333333;303;Ana3 Costa;9876543A921;;F;98765000;Rua Y;Bairro Y;;ZZ;55 85 9ABCD-1234;;ana@servico;29/02/2021;;;;;;;;;
+44444444;304;Carlos$Mendes;44444444444;;M;04567-890;Rua Z;Bairro Z;;SP;55111234O567;;carlos@serviço.com.br;15/15/1999;;;;;;;;;
+55555555;305;PAULO  SANTOS;77777777777;;M;99999-999;Rua W;Bairro W;;RJ;558599999999;;paulo@servico.com;01/04-1985;;;;;;;;;
+66666666;306;  Maria   ;12345678901;;F;1234567;Rua V;Bairro V;;MG;55 31 98765-4A32;;maria@servico.com.br;30/02/2005;;;;;;;;;
+77777777;307;"José ""Neto""";22222222222;;M;54321-876;Rua U;Bairro U;;RS;55 51 987654321;;jose.neto@servico..br;1980/05/30;;;;;;;;;
+88888888;308;Dr. Pedro;33333333333;;M;87654-321;Rua T;Bairro T;;SC;5548987654321;;pedro@servico.com;12/31/2010;;;;;;;;;
+99999999;309;Joana Silva;73689415209;;F;06162-150;Rua Teste 1;Bairro 1;;SP;5584932546048;;joana@teste.com;10/10/2025;;;;;;;;;

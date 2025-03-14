@@ -1,0 +1,14 @@
+name,email,phone,birthdate,cpf,address_1,address_2,zipcode,state,city,district,contact_name,contact_cpf
+Rebeca Aragão,Dados Inválidos,(84)91738-6244,Dados Inválidos,28597306483,Rua Teste 2,,Dados Inválidos,SP,,Bairro 2,Rebeca Aragão,28597306483
+Dante Rios,dante.rios@servico.com,(61)97680-6410,06/12/1944,32548690792,"Rua Teste 3, 1000",,06162152,SP,,Bairro 3,Dante Rios,32548690792
+Antony Da Cruz,antonio@servico.com.br,(84)96219-2967,08/10/1993,Dados Inválidos,Rua Teste 4,,06162153,SP,,Bairro 4,Antony Da Cruz,Dados Inválidos
+Dra. Maria Alice Sá,maria.sa@servico.com,(11)97094-7932,03/08/1983,Dados Inválidos,Rua Teste 5,,06162154,SP,,Bairro 5,Dra. Maria Alice Sá,Dados Inválidos
+João Silva,Dados Inválidos,(11)91234-5678,Dados Inválidos,Dados Inválidos,Rua Inválida 6,,Dados Inválidos,XX,Cidade Falsa,,João Silva,Dados Inválidos
+Fulano  ,fulano@servico.com.br,Dados Inválido,01/01/1900,Dados Inválidos,,,Dados Inválidos,Dados Inválidos,,,Fulano  ,Dados Inválidos
+Informação obrigatória,Dados Inválidos,Dados Inválido,Dados Inválidos,Dados Inválidos,Rua X,,Dados Inválidos,Dados Inválidos,,456,Informação obrigatória,Dados Inválidos
+Dados Inválidos,Dados Inválidos,Dados Inválido,Dados Inválidos,Dados Inválidos,Rua Y,,98765000,ZZ,,Bairro Y,Dados Inválidos,Dados Inválidos
+Carlos$Mendes,Dados Inválidos,Dados Inválido,Dados Inválidos,Dados Inválidos,Rua Z,,04567890,SP,,Bairro Z,Carlos$Mendes,Dados Inválidos
+Paulo  Santos,paulo@servico.com,Dados Inválido,04/01/1985,Dados Inválidos,Rua W,,99999999,RJ,,Bairro W,Paulo  Santos,Dados Inválidos
+  Maria   ,maria@servico.com.br,Dados Inválido,Dados Inválidos,Dados Inválidos,Rua V,,Dados Inválidos,MG,,Bairro V,  Maria   ,Dados Inválidos
+"José ""Neto""",Dados Inválidos,(51)98765-4321,30/05/1980,Dados Inválidos,Rua U,,54321876,RS,,Bairro U,"José ""Neto""",Dados Inválidos
+Dr. Pedro,pedro@servico.com,(48)98765-4321,31/12/2010,Dados Inválidos,Rua T,,87654321,SC,,Bairro T,Dr. Pedro,Dados Inválidos
